@@ -7,7 +7,7 @@
             "IconURL": "https://i.imgur.com/MWTu08a.png",
             "DisableIconText": false,
             "IconPosition": 1,
-            "IconTextColor": 1,
+            "IconTextColor": 7,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 1
@@ -19,7 +19,7 @@
                     "buttontext": "Rules",
                     "title1": "Rules",
                     "text1": "                                                    <TextStyle.Red>ARK/ASE Etiquette:</>                                                    \n1. Do not spam or flood the in-game ARK chats.\n2. Do not beg the admins to recover your stuff for you if you die / recover your dead dino / destroyed structures.\n3. Do not excessively beg for others to help you when you die. Its fine to ask once or twice, however, begging about it again and again is excessive.\n4. Do not take anything from other players in under any circumstance without permission. This includes loot, fertilized eggs that arent yours, something you saw someone drop, etc. The only exception to this rule we will ever have is if you were to retrieve and return another players belongings back to them after death.\n5. Nobody likes Elitism of any kind. Let people play ARK how they wish to.\n6. Try to keep your tribe names/character/dino names not offensive.\n7. Attempting to wipe others be it through leading wild dinos into their structures, exploits, insiding, etc will not be tolerated.\n8. Be considerate of what new players to ARK know and dont know; do not belittle someone or make them feel bad because they dont know something. On the other side of things, try Googling before asking a million questions!\n9. We understand that ARK is a really frustrating / punishing game at times, and venting about it is totally okay. But being overly negative or declaring that youre quitting / leaving / giving up etc because something happened is really really annoying. So please refrain from posting stuff of this nature.\n \n                                                       Creatures:                                                    \n \n1. TEK Stryders are immensely powerful and will often when using the mining laser lag the absolute crap out of the server. Use them with care for others please, try to keep your farming to the lower pop servers.\n2. Do not flyer grab or pick others unless theyre okay with it.\n3. Do not leave your tames in someone elses home without permission; like blocking someones doors/gates, etc.\n4. Do not attempt to kill any players tame in progress.\n5. Do not ask the admins to bring dead dinos back to life.\n \n More in-depth rules can be found in our discord! Any rule breaking even if you dont see it will result in a ban!",
-                    "imageurl": "https://i.imgur.com/7UEKUoz.png"
+                    "imageurl": "https://i.imgur.com/ExHvskj.png"
                 }
             },
             {
@@ -28,7 +28,7 @@
                     "buttontext": "Server Rates",
                     "title1": "Server Rates",
                     "text1": "                                                    <TextStyle.Red>General server settings:</>                                                    \n PvE\n 3x Harvest\n 3x Tame\n 10x XP\n 10x Baby Mature\n 15x Egg Hatch\n 0.1 Mating Interval\n 4x longer decay across all servers\n Tribes can have a maximum of 80 un-podded dinos out at a time.\n Dinosaur levels on all servers are equalized. You will more commonly find higher levels among most dinosaurs.\n \n                                                    Stat multipliers:                                                     \n \n All dino and human stats are default except for the following.\n DinoTamed Health - 0.42\n DinoTamed Melee Damage - 0.4\n DinoTamed_Add Health - 0.5\n DinoTamed_Add Melee Damage - 0.5\n Player Weight - 2.5\n Reboots happen every Monday morning EST. There are automatic re-boots for game & mod updates.\n Wild dino wipes happen every night at 12 AM EST.\n Our servers are primarily based in NA. You may have jittering or lag outside NA.\n \n                                                     NO WIPES                                                    \n All maps\n Titanosaur is disabled and will not spawn.\n Xiphactinus from the ARK Additions mod is disabled on all maps besides Genesis 1.\n Immersive Taming - Most large/apex tames, wyvern, rex, basilisk, drakes, non compatible/broken mod dinos, etc are not immersive tameable.\n Shiny! Dinos - Max 20 shinies on map at a time\n \n Any boss / loot change can be found in #ase-loot-guide",
-                    "imageurl": "https://i.imgur.com/7UEKUoz.png"
+                    "imageurl": "https://i.imgur.com/ExHvskj.png"
                 }
             },
             {
@@ -37,7 +37,7 @@
                     "buttontext": "Features",
                     "title1": "Features",
                     "text1": "                                                    <TextStyle.Red>Why Play On Mother Base?</>                                                    \n No wipes!\n Event Games!\n EU Players get below 30 ping!\n Boosted Events!\n Holiday Events!\n Max wild Dino Level 150\n S+ Mutator & Propogator Enabled (ASE)\n Custom Loot Tables\n High End Server Hardware\n Big Prizes to be won from Events\n An exclusive server mod (ASE only for now), with new dinos, new items, chibis and more! There are lots and lots of new custom chibis, new creatures like the explosive Meteor Wyvern or the otherwordly Thrumbo, and new rewards to unlock!\n All official maps\n Cross Server Chat! (Works between ASA and ASE)\n Rewarding donation perks!\n ASA and ASE Support! We are doing both games here at Mother Base. Play both or just play one!",
-                    "imageurl": "https://i.imgur.com/7UEKUoz.png"
+                    "imageurl": "https://i.imgur.com/ExHvskj.png"
                 }
             },
             {
@@ -46,7 +46,7 @@
                     "buttontext": "Map Specific Rules",
                     "title1": "Map Specific Rules",
                     "text1": "                                                        ALL MAPS\n \nPlease do not block Explorers notes, Glitches, Mission Terminals, Obelisks, Player Spawns, Runes, or Supply Drops. \nBuilding near spawn zones will result in us destroying your structures and podding your tames. Please do not build bases and such near spawn locations. \nArtifacts / Artifact caves - You may not build near Artifacts in any capacity inside of caves. Building inside said cave is still fine, but keep any and all structures away from Artifacts and do not impede progress in said cave. Keep your teleporters, FOBs, etc near the entrance. \nDo not build FOBs/structures/teleporters near desert drops, cave drops, or any kind of loot drop. They are for everyone to loot, not just for you.\n\nFor map spesific rules please head to #ase-settings-map-info, Any base found breaking the rules will be destroyed. No warnings! Read the rules!",
-                    "imageurl": "https://i.imgur.com/7UEKUoz.png"
+                    "imageurl": "https://i.imgur.com/ExHvskj.png"
                 }
             }
         ],
