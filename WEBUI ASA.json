@@ -2,12 +2,12 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": false,
-            "HideIconAfter": 60,
+            "HideIcon": true,
+            "HideIconAfter": 45,
             "IconURL": "https://i.imgur.com/MWTu08a.png",
             "DisableIconText": false,
-            "IconPosition": 0,
-            "IconTextColor": 0,
+            "IconPosition": 1,
+            "IconTextColor": 8,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 0
